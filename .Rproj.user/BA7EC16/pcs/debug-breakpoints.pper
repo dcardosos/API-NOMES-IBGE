@@ -1,0 +1,21 @@
+{
+    "debugBreakpointsState": {
+        "breakpoints": [
+            {
+                "id": 0,
+                "path": "~/Projects/repositories/progR/datacamp/nomesibge/api_nomes_ibge.R",
+                "line_number": 28,
+                "function_steps": "",
+                "function_name": "get_data",
+                "state": 2,
+                "editor_state": 2,
+                "editor_line_number": 28,
+                "is_pending_debug_completion": false,
+                "needs_updated_steps": true,
+                "type": 0,
+                "is_package_breakpoint": false,
+                "package_name": ""
+            }
+        ]
+    }
+}
